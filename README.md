@@ -1,4 +1,3 @@
-# news_parser
 # Database name
 news_parse
 
@@ -17,5 +16,9 @@ php composer.phar install
 5. Login (localhost:8000/login)
 6. Register (localhost:8000/register)
 
-# Only admin "ROLE_ADMIN" can login and delete post.
+# Login
+
+Only admin "ROLE_ADMIN" can login and delete post.
+Email: admin@qwerty.com
+Password: qwerty
 
