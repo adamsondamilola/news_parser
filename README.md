@@ -19,6 +19,6 @@ php composer.phar install
 # Login
 
 Only admin "ROLE_ADMIN" can login and delete post.
-Email: admin@qwerty.com
-Password: qwerty
+# Email: admin@qwerty.com
+# Password: qwerty
 
